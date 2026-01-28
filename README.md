@@ -59,12 +59,14 @@ During deployment, package installs (`apt`) failed due to blocked outbound conne
 - Your public IP in CIDR format for SSH (e.g. `197.x.x.x/32`)
 
 ## Deploy
+
 ```bash
 cd terraform
 terraform init
 terraform apply -auto-approve \
   -var="key_name=Charitykeypair" \
   -var="ssh_cidr=YOUR_PUBLIC_IP/32"
+```
 
 ---
 
@@ -115,5 +117,5 @@ terraform apply -auto-approve \
 
 ---
 
-### 🌍 Website Live (Public IP)
+### 🌍 Website Live
 ![Website Live](./screenshots/10-website-live.png)
