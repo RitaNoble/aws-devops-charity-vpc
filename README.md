@@ -70,50 +70,50 @@ terraform apply -auto-approve \
 
 ## 📸 Deployment Screenshots
 
-### Architecture Diagram
-![Architecture](screenshots/01-architecture-diagram.png)
+### 🏗 Architecture Diagram
+![Architecture Diagram](./screenshots/01-architecture-diagram.png)
 
 ---
 
-### VPC Overview
-![VPC](screenshots/02-vpc-overview.png)
+### 🌐 VPC Overview
+![VPC Overview](./screenshots/02-vpc-overview.png)
 
 ---
 
-### Subnets Configuration
-![Subnets](screenshots/03-subnets.png)
+### 🧱 Subnets Configuration
+![Subnets](./screenshots/03-subnets.png)
 
 ---
 
-### Route Table Configuration
-![Route Table](screenshots/04-route-table.png)
+### 🛣 Route Table Configuration
+![Route Table](./screenshots/04-route-table.png)
 
 ---
 
-### Security Group – Inbound Rules
-![Inbound SG](screenshots/05-security-group-inbound.png)
+### 🔐 Security Group – Inbound Rules
+![Security Group Inbound](./screenshots/05-security-group-inbound.png)
 
 ---
 
-### Security Group – Outbound Rules
-![Outbound SG](screenshots/06-security-group-outbound.png)
+### 🔐 Security Group – Outbound Rules
+![Security Group Outbound](./screenshots/06-security-group-outbound.png)
 
 ---
 
-### EC2 Instance List
-![EC2](screenshots/07-ec2-instance-list.png)
+### 🖥 EC2 Instance List
+![EC2 Instances](./screenshots/07-ec2-instance-list.png)
 
 ---
 
-### EC2 Instance Summary
-![EC2 Summary](screenshots/08-ec2-instance-summary.png)
+### 📋 EC2 Instance Summary
+![EC2 Instance Summary](./screenshots/08-ec2-instance-summary.png)
 
 ---
 
-### NGINX Running
-![NGINX](screenshots/09-nginx-running.png)
+### ⚙️ NGINX Service Running
+![NGINX Running](./screenshots/09-nginx-running.png)
 
 ---
 
-### Website Live
-![Website](screenshots/10-website-live.png)
+### 🌍 Website Live (Public IP)
+![Website Live](./screenshots/10-website-live.png)
